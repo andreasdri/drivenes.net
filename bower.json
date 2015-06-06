@@ -1,0 +1,8 @@
+{
+  "name": "drivenes.net",
+  "private": true,
+  "dependencies": {
+    "normalize-css": "~3.0.3",
+    "skeleton-css": "~2.0.4"
+  }
+}
