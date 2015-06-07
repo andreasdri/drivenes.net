@@ -9,3 +9,10 @@ h2, h4 {
 h2 {
   margin-bottom: 0;
 }
+
+footer {
+  text-align: center;
+  color: grey;
+  position: relative;
+  bottom: -50px;
+}
