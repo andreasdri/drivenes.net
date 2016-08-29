@@ -1,5 +1,6 @@
 body {
   margin-top: 50px;
+  font-family: 'Dosis', sans-serif;
 }
 
 h2, h4 {
@@ -15,4 +16,8 @@ footer {
   color: grey;
   position: relative;
   bottom: -50px;
+}
+
+main {
+  background-color: 'light-gray';
 }
